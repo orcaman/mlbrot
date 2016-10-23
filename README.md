@@ -2,7 +2,7 @@
 
 machine learning assisted mandelbrot set rendering.
 
-![Alt text](/img/diff.png?raw=true "mlbrot")  
+![Alt text](/img/diff.jpg?raw=true "mlbrot")  
 
 # usage
 ```
